@@ -72,20 +72,20 @@ __Number of contributors:__ 27 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [wabscale] (1374 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
+1. [synoet] (66 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/ba4e197dcc232b7df21453dedcc6629d8a22a3e7)
+1. [PIG208] (46 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/5473ccdea7e656e9b58643eef979b09ccdabbf36)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 1591 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
 
-- __who made that commit:__ 
+- __who made that commit:__ wabscale
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ For UI enhancement.
 
 
 __Issues__
@@ -131,28 +131,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 249 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/AnubisLMS/Anubis/pull/471)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Feb 19, 2024](https://github.com/AnubisLMS/Anubis/pull/471)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/AnubisLMS/Anubis/pull/1)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Jan 9, 2020
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 249
 
     - __url for the last pull request closed:__ [Last Pull Request closed]()
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb 19, 2024
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb 19, 2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, they just merged and close that pr in the same day when the pr was made
 
 
 ## Development Environment 
