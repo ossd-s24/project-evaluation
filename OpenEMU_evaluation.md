@@ -36,32 +36,32 @@ __Chat channel:__ No chat channel
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ No License found
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  No.
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Swift, C, Objective C.
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ No, they only ask for people to not report duplicate issues. 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ None found.
+
+__URL for instructions for users to download and install the package:__  [here](https://openemu.org/). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ They link to an Apple article on installing unsigned apps, but nothing past that.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ None, they just say use XCode to compile from source. 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ No.
+
+
+__Number of contributors:__ 93 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
