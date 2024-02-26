@@ -29,7 +29,7 @@ __URL for the code repository:__ [Code repository](https://github.com/scikit-lea
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scikit-learn/scikit-learn/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](https://mail.python.org/mailman/listinfo/scikit-learn)
 
 __Chat channel:__ [Chat channel](insert link here)
 
