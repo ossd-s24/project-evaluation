@@ -31,33 +31,60 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scikit-learn/
 
 __Mailing list:__ [Mailing list](https://mail.python.org/mailman/listinfo/scikit-learn)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://app.gitter.im/#/room/#scikit-learn_scikit-learn:gitter.im)
 
 __Other communication channels:__ 
 
+Twitter: @scikit_learn
+LinkedIn: linkedin/scikit-learn
+YouTube: youtube.com/scikit-learn
+Facebook: @scikitlearnofficial
+Instagram: @scikitlearnofficial
+TikTok: @scikit.learn
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/scikit-learn/scikit-learn?tab=BSD-3-Clause-1-ov-file)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language(s):__ 
+[yes](https://opensource.org/license/bsd-3-clause)
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__Programming Language(s):__ 
+Python
+92.2%
+ 
+Cython
+5.7%
+C++
+1.2%
+ 
+C
+0.3%
+ 
+Shell
+0.3%
+Meson
+0.2%
+ 
+Other
+0.1%
+
+
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/scikit-learn/scikit-learn/blob/main/CONTRIBUTING.md)
 
 __Are the contributing instructions clear?__ 
+Yes
 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/scikit-learn/scikit-learn/tree/main?tab=coc-ov-file)
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__URL for instructions for users to download and install the package:__  [here](https://github.com/scikit-learn/scikit-learn/tree/main?tab=readme-ov-file)
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-
+Yes, as long as the user knows how to install dependencies
 
 __URL for instructions for how to install development environment:__ [here](insert link here)
 
@@ -72,8 +99,8 @@ __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 
 
 __Number of commits:__ xxxx commits
