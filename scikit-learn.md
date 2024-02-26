@@ -3,7 +3,7 @@
 
 
 __Project Name:__  
-
+Scikit-learn
 
 ---
 
@@ -13,24 +13,25 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 __What is the purpose of the project:__ 
-
+Provide the tools and assets for predictive data analysis
 
 __How easy was it to find information about contributing on the website?__ 
+Pretty easy, information at the footer
+
+__Contributing instructions:__ [Here](https://scikit-learn.org/dev/developers/contributing.html) 
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ [Code repository](https://github.com/scikit-learn/scikit-learn)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scikit-learn/scikit-learn/issues)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Mailing list:__ [Mailing list](https://mail.python.org/mailman/listinfo/scikit-learn)
 
-__Mailing list:__ [Mailing list](insert link here)
-
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.gg/VVzhr8cHK8)
 
 __Other communication channels:__ 
 
