@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__ Lichess
 
 
 ---
@@ -13,77 +13,80 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Lichess](https://lichess.org/)
 
 
 __What is the purpose of the project:__ 
+To provide users with a free open-source chess server.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__
+The website was tucked behind a small link to the source code at the very bottom of the page. It's actually pretty hard to find because all of the details to contribute is very hidden.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://lichess.org/help/contribute) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/lichess-org/lila)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/lichess-org/lila/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ None/Could not find
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.gg/hy5jqSs)
 
-__Other communication channels:__ 
+__Other communication channels:__ [discord](https://discord.gg/hy5jqSs)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/lichess-org/lila?tab=AGPL-3.0-1-ov-file)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Scala
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/lichess-org/lila/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ None/Could not find
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/lichess-org/lila/wiki/Lichess-Development-Onboarding). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, it's very detailed.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ [here](https://github.com/lichess-org/lila/wiki/Lichess-Development-Onboarding)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, even includes a video.
+
+
+__Number of contributors:__ 401 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Ornicar] (47,230 commits) - [Their Latest Commit](https://github.com/lichess-org/lila/commit/f6f5fa5bb5a537b1302df73564cace39e84b7743)
+1. [Niklasf] (3,027 commits) - [Their Latest Commit](https://github.com/lichess-org/lila/commit/c998a3686f8bb981d9ae20484604abd50253575f)
+1. [benediktwerner] (927 commits) - [Their Latest Commit](https://github.com/lichess-org/lila/commit/f7f4b9b0910c1f841ea586e4f2935766338f24fd)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 57,675 commits
 
-__Latest commit__ 
+__Latest commit__
+show fide federation flags on study chapter player bars 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/lichess-org/lila/commit/f6f5fa5bb5a537b1302df73564cace39e84b7743)
 
-- __who made that commit:__ 
+- __who made that commit:__ ornicar
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ implementation of new feature
 
 
 __Issues__

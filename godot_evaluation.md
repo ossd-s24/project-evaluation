@@ -28,26 +28,26 @@ __URL for the code repository:__ [Code repository](https://github.com/godotengin
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/godotengine/godot/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ N/A
 
 __Chat channel:__ [Chat channel](https://chat.godotengine.org/home)
 
-__Other communication channels:__ 
+__Other communication channels:__ [All community channels](https://godotengine.org/community/)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/godotengine/godot?tab=MIT-1-ov-file)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language(s):__ 
+__Programming Language(s):__ C++, C#, C, GLSL, Java, Python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes
 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)

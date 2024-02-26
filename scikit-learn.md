@@ -87,21 +87,21 @@ __URL for instructions for users to download and install the package:__  [here](
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 Yes, as long as the user knows how to install dependencies
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://scikit-learn.org/dev/developers/contributing.html#ways-to-contribute)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
+Yes
 
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2815 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Ogrisel] (2892 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/3a3e746dddef5c0fc2243c4c0bedf58b6b668651)
+2. [Amueller] (2061 commits) - [Their Latest Commit](https://github.com/scikit-learn/enhancement_proposals/commit/281e2b9315ae43af608028f20804023b98bf2d91)
+3. [GaelVaroquanux] (1791 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/fe718a8e193ca7fdf0d61c197b3615fbcb277f8e)
 
 
 __Number of commits:__ xxxx commits
