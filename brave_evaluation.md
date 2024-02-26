@@ -129,15 +129,15 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 222 Open pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/brave/brave-core/pull/22321)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Last Pull Request created](02/26/2024 @ 1:26 PM)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Open Pull Request created](https://github.com/brave/brave-core/pull/8657)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Apr 27 2021
 
 - __how many closed pull requests are there:__ 
 
