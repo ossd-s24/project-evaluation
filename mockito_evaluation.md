@@ -105,53 +105,54 @@ __Issues__
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/mockito/mockito/issues/3156)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/mockito/mockito/issues/3254)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ There are no issues marked with a label of that nature. 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 0
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ N/A
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No, there is no indicator for documentation 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 0
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ N/A
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 17 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/mockito/mockito/pull/3278)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Last Pull Request created](https://github.com/mockito/mockito/pull/3277)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/mockito/mockito/pull/1711)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ [Oldest Pull Request made](https://github.com/mockito/mockito/pull/2)
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 1639
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/mockito/mockito/pull/3277)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 0 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  2/21/24
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 2/21/24
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
 
+Yes
 
 ## Development Environment 
 
