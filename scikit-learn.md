@@ -181,7 +181,7 @@ __Pull requests__
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+Yes
 
 ## Development Environment 
 
@@ -200,6 +200,17 @@ How long did the whole process take?
 
 ---
 
+Name: 
+
+Operating system: 
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+
+How long did the whole process take? 
+
+
+---
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
