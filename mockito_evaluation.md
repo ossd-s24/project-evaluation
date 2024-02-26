@@ -133,11 +133,11 @@ __Pull requests__
 
     - __url for the last pull request created:__ [Last Pull Request created](https://github.com/mockito/mockito/pull/3278)
     
-    - __when was the last pull request made:__ [Last Pull Request created](https://github.com/mockito/mockito/pull/3277)
+    - __when was the last pull request made:__ 2/21/24
 
     - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/mockito/mockito/pull/1711)
     
-    - __when was the oldest pull request made:__ [Oldest Pull Request made](https://github.com/mockito/mockito/pull/2)
+    - __when was the oldest pull request made:__ 5/13/19
 
 - __how many closed pull requests are there:__ 1639
 
