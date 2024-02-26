@@ -192,30 +192,37 @@ How long did the whole process take?
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
-
+It is friendly, has clear instructions. 
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, maintainers do respond helpfully to questions that arises in issues when there are questions.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Not sure about friendly but mostly very straightforward or objective regarding issues and solutions in the forum.
 
 
 
 __Do pull requests get reviewed?__
-
+Pull requests are often reviewed automatically with bots and GitHub Actions. Some of them are reviewed manually by a contributor locally. Overall, there is some sort of a review system whether it is automated or by an actual contributor.
 
 
 __Do maintainers thank people for their contributions?__
-
+Not explicitly. One maintainer said, “Looks good. Was able to test locally and the code change is pretty straightforward” which was positive but not much else can be found in pull requests.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
+I think there are some special skills required in order to contribute to certain features of the project. BitWarden is a password manager so there is a security aspect to it that might be needed in order to contribute.
+
+
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+There aren’t any special hardware or software requirements other than being able to install node.js.
+
+
 
 
 
