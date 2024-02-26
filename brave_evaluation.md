@@ -168,45 +168,53 @@ The installation was successful.
 
 How long did the whole process take? 
 
-Name: 
+Name: Kei Oshima
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it): 
+- Yes the instruction for setting up develpement enviroment was clear and concise as I had all therequirment preinstalled
 
-How long did the whole process take? 
+How long did the whole process take?
+- About five minutes
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ 
+- I wouldn't say the most freindly as there were not a lot of first time contributor issues avaiable. 
+
+
+
+__Do the maintainers respond helpfully to questions in issues?__ 
+- Not really.  Often times there were only one contributor or an issue.
+
+
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ 
+- I could not tell as there weren't a lot of contributors or discussions in issues. 
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
-
-
-
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ 
+- Yes pull request get reviewed.
 
 
 
 __Do maintainers thank people for their contributions?__
+-  Some do some don't.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ 
+- No special skills are required.
 
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+-  No special hardware/sfotwarerequirements to be able to contribute to the project.
 
 
