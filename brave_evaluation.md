@@ -70,7 +70,7 @@ __Number of contributors:__ 210 contributors to [brave-core](https://github.com/
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__: 
 
-1. [brave-browser-releases] (3606 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/23a4475751f4a5ee42eb90518d1b02efb8ef2b0e))
+1. [brave-browser-releases] (3606 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/23a4475751f4a5ee42eb90518d1b02efb8ef2b0e)
 1. [mkarolin] (3180 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/7cdd666b3e9a1838158db03208ecca74694660a3)
 1. [tmancey] (2639 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/c01abe9dcda49ffd3a773fa1be0c61313f01b73a)
 
