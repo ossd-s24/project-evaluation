@@ -2,8 +2,7 @@
 
 
 
-__Project Name:__  
-
+__Project Name:__  OpenEMU
 
 ---
 
@@ -13,64 +12,62 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://openemu.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ The project is an open source video game emaluator that allows Mac users to easily add, browse, and organize games and play them with a compatible gamepad.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It was easy to find the GitHub repo because there was a link to it on the website nav. However, the CONTRIBUTING.md doesn't have actual information on how to contribute, only a link to a reporting guide, so it could be difficult for newcomers to contribute to the project.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/OpenEmu/OpenEmu)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/OpenEmu/OpenEmu/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ No mailing list
 
-__Chat channel:__ [Chat channel](insert link here)
-
-__Other communication channels:__ 
+__Chat channel:__ No chat channel
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ No License found
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  No.
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Swift, C, Objective C.
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ No, they only ask for people to not report duplicate issues. 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ None found.
+
+__URL for instructions for users to download and install the package:__  [here](https://openemu.org/). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ They link to an Apple article on installing unsigned apps, but nothing past that.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ None, they just say use XCode to compile from source. 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ No.
+
+
+__Number of contributors:__ 93 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [[Cyco](https://github.com/cyco)] (1494 commits) - [Their Latest Commit](https://github.com/OpenEmu/OpenEmu/commit/f233ec9a11d050b7b211bb7c795b011a2ebb801a) 
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 

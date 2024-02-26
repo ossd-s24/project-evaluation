@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Anubis
 
 
 ---
@@ -13,58 +13,60 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://about.anubis-lms.io/)
 
 
 __What is the purpose of the project:__ 
-
+To have an LMS that automates the day to day actions in a classroom.
 
 __How easy was it to find information about contributing on the website?__ 
+We did see it on the website, but the link was broken. We were able to find the actual guide under their github repo [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
 
+__Contributing instructions:__ [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
+There is also a installation guideline [here](https://github.com/AnubisLMS/Anubis/blob/main/docs/development_guide.md).
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ [here](https://github.com/AnubisLMS/Anubis)
 
-__URL for the code repository:__ [Code repository](insert link here)
-
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/AnubisLMS/Anubis/issues)
+(Actual project board is broken)
 
 __Mailing list:__ [Mailing list](insert link here)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ Link to discord broken.
 
 __Other communication channels:__ 
-
+DM the founder via discord.
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/AnubisLMS/Anubis/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical)__ Yes. license: The MIT Lcense 
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python, JavaScript, 
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
 
 __Are the contributing instructions clear?__ 
+Relatively clear. The commit style and coding conventions required are clearly listed. Pull requests insturction are also listed.
 
+__URL for code of conduct / community norms / community guildelines:__ We were not able to find one.
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__URL for instructions for users to download and install the package:__  Adoption guide is listed on the website, but the link is broken. It also asks potential users to reach out.
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
+No.
 
-
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://github.com/AnubisLMS/Anubis/blob/main/docs/development_guide.md)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
+Yes. It is step by step and very clear.
 
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 27 contributors
 
 
 __Usernames of three contributors with largest number of commits; for

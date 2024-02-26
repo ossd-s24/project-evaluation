@@ -39,11 +39,11 @@ __Other communication channels:__ [Twitter](https://twitter.com/brave)
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/brave/brave-browser/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Java, JavaScript, TypeScript, C++, Swift, others (to a lesser extent).
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
@@ -64,15 +64,15 @@ __URL for instructions for how to install development environment:__ [here](inse
 __Are these instruction clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 210 contributors to [brave-core](https://github.com/brave/brave-core), 93 contributors to [brave-browser](https://github.com/brave/brave-browser). (Unsure if possible to find total amount of unique contributors).
 
 
 __Usernames of three contributors with largest number of commits; for
-each of them list the link to their latest commit__:
+each of them list the link to their latest commit__: 
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [brave-browser-releases] (3606 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/23a4475751f4a5ee42eb90518d1b02efb8ef2b0e)
+1. [mkarolin] (3180 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/7cdd666b3e9a1838158db03208ecca74694660a3)
+1. [tmancey] (2639 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/c01abe9dcda49ffd3a773fa1be0c61313f01b73a)
 
 
 __Number of commits:__ xxxx commits
