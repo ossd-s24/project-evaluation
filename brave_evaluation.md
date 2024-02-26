@@ -105,7 +105,7 @@ __Issues__
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/brave/brave-browser/issues/32399)
     
     - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
 
@@ -113,9 +113,9 @@ __Issues__
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 16 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Some are for exmaple if you are mroe front-end focused one of the issues may be doable
 
 
 
@@ -141,16 +141,16 @@ __Pull requests__
 
 - __how many closed pull requests are there:__ 
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/brave/brave-core/commit/fc0625743f2534382eb76889cdd7c123e74b5032)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  12 hours ago 
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 1 hour ago 
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ relatively quick
 
 
 ## Development Environment 
@@ -167,6 +167,14 @@ what you did to try to remedy it)
 
 How long did the whole process take? 
 
+Name: 
+
+Operating system: 
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+
+How long did the whole process take? 
 
 ---
 
