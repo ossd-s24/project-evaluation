@@ -31,7 +31,7 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scikit-learn/
 
 __Mailing list:__ [Mailing list](https://mail.python.org/mailman/listinfo/scikit-learn)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.gg/VVzhr8cHK8)
 
 __Other communication channels:__ 
 
