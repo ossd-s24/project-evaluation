@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Mockito
 
 
 ---
@@ -13,26 +13,26 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Mockito](https://site.mockito.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ Mockito is a Java mocking framework with no expect-run-verify, and offers an approach where "you ask questions about interactions after execution". 
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It wasn't super easy to find off the bat, because the link about how to contribute is all the way towards the bottom of the home page. In addition, when navigating to the contributing link, you can see that the CONTRIBUTING.md is under a hidden directory in the Mockito repository. 
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Contributing](https://github.com/mockito/mockito/blob/release/2.x/.github/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/mockito/mockito)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/mockito/mockito/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](https://groups.google.com/g/mockito?pli=1)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ N/A
 
-__Other communication channels:__ 
+__Other communication channels:__ Email: info@mockito.org
 
 
 ---
