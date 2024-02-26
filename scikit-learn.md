@@ -93,15 +93,15 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 Yes
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2815 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Ogrisel] (2892 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/3a3e746dddef5c0fc2243c4c0bedf58b6b668651)
+2. [Amueller] (2061 commits) - [Their Latest Commit](insert link here)
+3. [GaelVaroquanux] (1791 commits) - [Their Latest Commit](insert link here)
 
 
 __Number of commits:__ xxxx commits
