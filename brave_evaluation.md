@@ -47,21 +47,21 @@ __Programming Language(s):__
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes the contributing instructions are clear.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ Not found
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
 __URL for instructions for how to install development environment:__ [here](insert link here)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
 __Number of contributors:__ xxx contributors
@@ -77,13 +77,13 @@ each of them list the link to their latest commit__:
 
 __Number of commits:__ xxxx commits
 
-__Latest commit__ 
+__Latest commit__ The latest commit was made 12 hours ago.
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/brave/brave-core/commit/134f781efe672a85a71fe8d0ea8ad076342da197)
 
-- __who made that commit:__ 
+- __who made that commit:__ bsclifton
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ Security team review is now required when editing any source code files in the Rewards engine code that perform signing.
 
 
 __Issues__
