@@ -30,7 +30,7 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/brave/brave-b
 
 __Mailing list:__ Could not find
 
-__Chat channel:__ [Chat channel](https://community.brave.com/)
+__Chat channel:__ [Chat channel](https://bravesoftware.slack.com/)
 
 __Other communication channels:__ [Twitter](https://twitter.com/brave)
 
@@ -45,7 +45,7 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language(s):__ Java, JavaScript, TypeScript, C++, Swift, others (to a lesser extent).
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md#how-can-you-contribute)
 
 __Are the contributing instructions clear?__ Yes the contributing instructions are clear.
 
@@ -58,7 +58,7 @@ __URL for instructions for users to download and install the package:__  [here](
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [MacOS](https://github.com/brave/brave-browser/wiki/macOS-Development-Environment) and [Windows](https://github.com/brave/brave-browser/wiki/Windows-Development-Environment)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
@@ -88,20 +88,20 @@ __Latest commit__ The latest commit was made 12 hours ago.
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [7035 Open Issues](https://github.com/brave/brave-browser/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/brave/brave-browser/issues/36372)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 0 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ around 2 hours ago (2/26/24 11:21 am)
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [26905 closed issues](https://github.com/brave/brave-browser/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/brave/brave-browser/issues/36369)
+    - __how many users discussed the issue:__ 1 people
+    - __when was the issue reported:__ around 6 hours ago (2/26/24 7:22 am)
+    - __when was the issue closed:__  closed 3 hours ago (2/26/24 10:22 am)
 
 - __how active is the discussion on the issues:__ 
 
