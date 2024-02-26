@@ -10,15 +10,17 @@ You should name the file by replacing the word "template" in the template by the
 Answer all the questions in the template based on the information on the project website and in the project repository (DO NOT use a search engine!!!).  Make sure that your answers are formatted in a readable way. Look at the resulting file, not just the markdown source file. 
 
 List of projects for this activity:
-- [30 Seconds of Code](https://www.30secondsofcode.org/) Rufaida, Leah, Jose, 
-- [Arch Linux](https://archlinux.org/) Sivan, Jonathan, Yao 
-- [Brave browser](https://brave.com/) Phoebus, Grace, Shenghan
-- [DALL-E](https://openai.com/blog/dall-e/) Connor, Seoeun, Jiawei
-- [Eclipse](https://www.eclipse.org) Estela, Zack, Amando 
-- [Hadoop](https://hadoop.apache.org/) Riya, Jiajun, Jinli
-- [Python](https://www.python.org/) Scott, Shannon, Bernice, Amber
-- [React](https://reactjs.org/) Nicole, Yuri, Jack
-- [Seaborn](https://seaborn.pydata.org/) Danielle, Ishana, Romee
-- [Terasology](https://terasology.org/) Sid, Diana, Pasindu
+
+- [Bitwarden](https://bitwarden.com/) Brandon, Sam  F, Alex
+- [Aunubis](https://about.anubis-lms.io/) Jack, Leo, Ruiming 
+- [Jellyfin](https://jellyfin.org/) Julissa, Allyson, Johan
+- [Mockito](https://site.mockito.org/) Isaiah, Skylar, Andrew  
+- [Cockatrice](https://cockatrice.github.io/) Harry, Daniel, Brad 
+- [Brave](https://brave.com/) Kei, Rushi, Josckar, 
+- [OpenEMU](https://openemu.org/) Raj, Sam G, Jenna, Nathan, 
+- [scikit-learn](https://scikit-learn.org/stable/) Terrance, Henry, Ben 
+- [Audacity](https://www.audacityteam.org/) Cole, Ahmed O, Cameron 
+- [Lichess](https://lichess.org/) Alessandro, Leanne, Mathew
+- [Godot engine](https://godotengine.org/) Ahmet I, Glenda, Shriya
 
 
