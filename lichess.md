@@ -188,28 +188,28 @@ How long did the whole process take? Less than 10 minutes
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
-
+It's fairly beginner-friendly. They give explicit and easy instructions to set up the development environment. The only difficulty is actually finding the contributing page on the website. 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
-
+The maintainers are reachable through the discord server and are quick to respond to new issues and pull requests.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
-
+The community is friendly and they respond well to questions. However, if something were to go wrong, there isn't Code of Conduct that makes it clear how they handle conflicts.
 
 __Do pull requests get reviewed?__
 
-
+Pull requests get reviewed quickly and frequently.
 
 __Do maintainers thank people for their contributions?__
 
-
+Yes they do.
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+Knowledge of scala, everything else is fairly standard.
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+It seems to work best with Linux, but they provide other options for Windows and MacOS. There are some hardware requirements but they're trivial.
