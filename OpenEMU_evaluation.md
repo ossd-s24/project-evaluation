@@ -67,7 +67,7 @@ __Number of contributors:__ 93 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [[Cyco](https://github.com/cyco)] (1494 commits) - [Their Latest Commit](https://github.com/OpenEmu/OpenEmu/commit/f233ec9a11d050b7b211bb7c795b011a2ebb801a) 
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 
