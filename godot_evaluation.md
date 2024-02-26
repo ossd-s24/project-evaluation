@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Godot Engine
 
 
 ---
@@ -13,24 +13,24 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Godot Engine](https://godotengine.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ It's a cross-platform game engine that helps you create 2D and 3D games. Provides a comprehensive set of tools so users can focus on making games without having to reinvent the wheel.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It was very easy. There's a button on the main page.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Ways to Contribute](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/godotengine/godot)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/godotengine/godot/issues)
 
 __Mailing list:__ [Mailing list](insert link here)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://chat.godotengine.org/home)
 
 __Other communication channels:__ 
 
