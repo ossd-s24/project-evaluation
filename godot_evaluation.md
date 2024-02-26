@@ -39,15 +39,15 @@ __Other communication channels:__ [All community channels](https://godotengine.o
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/godotengine/godot?tab=MIT-1-ov-file)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language(s):__ 
+__Programming Language(s):__ C++, C#, C, GLSL, Java, Python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes
 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
