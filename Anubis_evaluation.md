@@ -72,20 +72,20 @@ __Number of contributors:__ 27 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [wabscale] (1374 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
+1. [synoet] (66 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/ba4e197dcc232b7df21453dedcc6629d8a22a3e7)
+1. [PIG208] (46 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/5473ccdea7e656e9b58643eef979b09ccdabbf36)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 1591 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
 
-- __who made that commit:__ 
+- __who made that commit:__ wabscale
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ For UI enhancement.
 
 
 __Issues__
