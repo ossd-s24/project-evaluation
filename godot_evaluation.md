@@ -28,11 +28,11 @@ __URL for the code repository:__ [Code repository](https://github.com/godotengin
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/godotengine/godot/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ N/A
 
 __Chat channel:__ [Chat channel](https://chat.godotengine.org/home)
 
-__Other communication channels:__ 
+__Other communication channels:__ [All community channels](https://godotengine.org/community/)
 
 
 ---
