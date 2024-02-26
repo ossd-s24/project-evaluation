@@ -39,7 +39,7 @@ __Other communication channels:__ [Twitter](https://twitter.com/brave)
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](https://github.com/brave/brave-browser/blob/master/LICENSE)
+__License:__ [Mozilla License](https://github.com/brave/brave-browser/blob/master/LICENSE)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
