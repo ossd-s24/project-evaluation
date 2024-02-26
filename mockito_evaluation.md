@@ -39,18 +39,18 @@ __Other communication channels:__ Email: info@mockito.org
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [MIT License] ([insert link here](https://github.com/mockito/mockito/blob/main/LICENSE))
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__Yes 
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Java
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions]([insert link here](https://github.com/mockito/mockito/blob/release/2.x/.github/CONTRIBUTING.md))
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ The instructions for contributing are pretty clear, and there are guidelines for commit messages and pull requests.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here) N/A
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
@@ -58,50 +58,50 @@ __URL for instructions for users to download and install the package:__  [here](
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://github.com/mockito/mockito/blob/release/2.x/README.md)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the instructions are pretty easy to follow as they have commands that you can copy and paste to build locally. It does assume that users are familiar with gradle.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 286 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Mockitoguy] (2759 commits) - [Their Latest Commit](https://github.com/mockito/mockito/commit/c6054cd3822b8d2c37b439ce508049b4cbe563c6)
+1. [bric3] (461 commits) - [Their Latest Commit](https://github.com/mockito/mockito/commit/6ccc12149abc98d072de3992da1f18ea58c4c7d9)
+1. [continuous-delivery-drone] (431 commits) - [Their Latest Commit](https://github.com/mockito/mockito/commit/a003bba77ed49c0bdbeb7b45bc0361452603bb9b)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 6,056 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/mockito/mockito/commit/8431ae2aff383fd4f23aec34c02d22ce1d189d2b)
 
-- __who made that commit:__ 
+- __who made that commit:__dependabot 
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ It updated dependancies.
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [374 Open Issues](https://github.com/mockito/mockito/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/mockito/mockito/issues/3280)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 3 days ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [1,237 closed issues](https://github.com/mockito/mockito/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/mockito/mockito/issues/3276)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ Last week
+    - __when was the issue closed:__ 5 days ago
 
 - __how active is the discussion on the issues:__ 
 
