@@ -43,7 +43,7 @@ __License:__ [License](insert link here)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language:__ 
+__Programming Language(s):__ 
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
@@ -52,10 +52,16 @@ __Are the contributing instructions clear?__
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__URL for instructions for users to download and install the package:__  [here](insert link here). 
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
+
+
+__URL for instructions for how to install development environment:__ [here](insert link here)
+
+
+__Are these instruction clear? Do you think they would be easy to follow?__
 
 
 __Number of contributors:__ xxx contributors
@@ -65,13 +71,13 @@ __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 
 
 __Number of commits:__ xxxx commits
 
-__Latest commit__ [de] 
+__Latest commit__ 
 
 - __link to the commit:__ [Latest commit](insert link here)
 
@@ -147,7 +153,19 @@ __Pull requests__
 - __do maintainers respond quickly to pull requests when they are opened?__ 
 
 
+## Development Environment 
 
+Each member of your group should attempt to configure the development environemnt 
+for this project. Complete the following for each member:
+
+Name: 
+
+Operating system: 
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+
+How long did the whole process take? 
 
 
 ---
