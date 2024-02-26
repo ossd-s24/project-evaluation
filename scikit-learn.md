@@ -87,11 +87,11 @@ __URL for instructions for users to download and install the package:__  [here](
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 Yes, as long as the user knows how to install dependencies
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://scikit-learn.org/dev/developers/contributing.html#ways-to-contribute)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
-
+Yes
 
 __Number of contributors:__ xxx contributors
 
