@@ -103,11 +103,11 @@ __Issues__
     - __when was the issue reported:__ around 6 hours ago (2/26/24 7:22 am)
     - __when was the issue closed:__  closed 3 hours ago (2/26/24 10:22 am)
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ The discussion on the issues is not super active.
 
     - __example of a lot of good discussion:__ [Good discussion](insert link here)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/brave/brave-browser/issues/36347)
 
 
 
@@ -119,11 +119,11 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes there are.
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 24 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes some of them seem easy enough to submit a fix.
 
 
 
@@ -158,15 +158,16 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Rushitha Penikalapati
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
+The installation was successful.
 
 How long did the whole process take? 
-
+The process took about a minute since all I had to do was fork and clone the repo.
 
 ---
 
