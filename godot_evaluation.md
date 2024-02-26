@@ -15,12 +15,9 @@ may be very hard to find. Do not _google_ for answers.
 
 __Project website:__ [Godot Engine](https://godotengine.org/)
 
-
 __What is the purpose of the project:__ It's a cross-platform game engine that helps you create 2D and 3D games. Provides a comprehensive set of tools so users can focus on making games without having to reinvent the wheel.
 
-
 __How easy was it to find information about contributing on the website?__ It was very easy. There's a button on the main page.
-
 
 __Contributing instructions:__ [Ways to Contribute](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html) 
 
@@ -34,9 +31,7 @@ __Chat channel:__ [Chat channel](https://chat.godotengine.org/home)
 
 __Other communication channels:__ [All community channels](https://godotengine.org/community/)
 
-
 ---
-
 ## Finding info at the project repository and bug/issue tracker.
 
 __License:__ [License](https://github.com/godotengine/godot?tab=MIT-1-ov-file)
@@ -49,71 +44,65 @@ __URL for contributing instructions:__ [Contributing instructions](https://docs.
 
 __Are the contributing instructions clear?__ Yes
 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://godotengine.org/code-of-conduct/)
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for instructions for users to download and install the package:__  [here](https://godotengine.org/download/macos/). 
 
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
+__URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/configuring_an_ide/index.html).
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__Are these instruction clear? Do you think they would be easy to follow?__  Yes
 
-
-__URL for instructions for how to install development environment:__ [here](insert link here)
-
-
-__Are these instruction clear? Do you think they would be easy to follow?__
-
-
-__Number of contributors:__ xxx contributors
-
+__Number of contributors:__ 2,393 contributors
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [akien-mga] (25,786 commits) - [Their Latest Commit](https://github.com/godotengine/godot/commit/bb6b06c81343073f10cbbd2af515cf0dac1e6549)
+1. [reduz] (3,823 commits) - [Their Latest Commit](https://github.com/godotengine/godot/commit/000367893ad3594b8e9318b98bd96e1a6bf0f94a)
+1. [Calinou] (1,747 commits) - [Their Latest Commit](https://github.com/godotengine/godot/commit/f781571d070b7d8d13936a383658af289f310ae7)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 61,617 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/godotengine/godot/commit/bb6b06c81343073f10cbbd2af515cf0dac1e6549)
 
-- __who made that commit:__ 
+- __who made that commit:__ akien-mga
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ Merged pull request for a PR that moves/restructures docs and files
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [9682 Open Issues](https://github.com/godotengine/godot/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/godotengine/godot/issues/88878)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 15 minutes ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [38,640 closed issues](https://github.com/godotengine/godot/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/godotengine/godot/issues/88850)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ 11 hours ago
+    - __when was the issue closed:__ 2 hours ago
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/godotengine/godot/issues/88809)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/godotengine/godot/issues/88848)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 9 issues
     
     - __look at a few of them, do they look beginner friendly?__ 
 
@@ -121,7 +110,7 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 6 issues
     
     - __look at a few of them, do you think you could submit a fix?__ 
 
@@ -129,7 +118,7 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 2,255 pull requests
 
     - __url for the last pull request created:__ [Last Pull Request created]()
     
