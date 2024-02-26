@@ -100,8 +100,8 @@ __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
 1. [Ogrisel] (2892 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/3a3e746dddef5c0fc2243c4c0bedf58b6b668651)
-2. [Amueller] (2061 commits) - [Their Latest Commit](insert link here)
-3. [GaelVaroquanux] (1791 commits) - [Their Latest Commit](insert link here)
+2. [Amueller] (2061 commits) - [Their Latest Commit](https://github.com/scikit-learn/enhancement_proposals/commit/281e2b9315ae43af608028f20804023b98bf2d91)
+3. [GaelVaroquanux] (1791 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/fe718a8e193ca7fdf0d61c197b3615fbcb277f8e)
 
 
 __Number of commits:__ xxxx commits

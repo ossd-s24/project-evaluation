@@ -30,7 +30,7 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/brave/brave-b
 
 __Mailing list:__ Could not find
 
-__Chat channel:__ [Chat channel](https://community.brave.com/)
+__Chat channel:__ [Chat channel](https://bravesoftware.slack.com/)
 
 __Other communication channels:__ [Twitter](https://twitter.com/brave)
 
@@ -39,69 +39,69 @@ __Other communication channels:__ [Twitter](https://twitter.com/brave)
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/brave/brave-browser/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Java, JavaScript, TypeScript, C++, Swift, others (to a lesser extent).
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md#how-can-you-contribute)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes the contributing instructions are clear.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ Not found
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [MacOS](https://github.com/brave/brave-browser/wiki/macOS-Development-Environment) and [Windows](https://github.com/brave/brave-browser/wiki/Windows-Development-Environment)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes these instructions are clear and easy to follow.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 210 contributors to [brave-core](https://github.com/brave/brave-core), 93 contributors to [brave-browser](https://github.com/brave/brave-browser). (Unsure if possible to find total amount of unique contributors).
 
 
 __Usernames of three contributors with largest number of commits; for
-each of them list the link to their latest commit__:
+each of them list the link to their latest commit__: 
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [brave-browser-releases] (3606 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/23a4475751f4a5ee42eb90518d1b02efb8ef2b0e)
+1. [mkarolin] (3180 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/7cdd666b3e9a1838158db03208ecca74694660a3)
+1. [tmancey] (2639 commits) - [Their Latest Commit](https://github.com/brave/brave-core/commit/c01abe9dcda49ffd3a773fa1be0c61313f01b73a)
 
 
 __Number of commits:__ xxxx commits
 
-__Latest commit__ 
+__Latest commit__ The latest commit was made 12 hours ago.
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/brave/brave-core/commit/134f781efe672a85a71fe8d0ea8ad076342da197)
 
-- __who made that commit:__ 
+- __who made that commit:__ bsclifton
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ Security team review is now required when editing any source code files in the Rewards engine code that perform signing.
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [7035 Open Issues](https://github.com/brave/brave-browser/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/brave/brave-browser/issues/36372)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 0 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ around 2 hours ago (2/26/24 11:21 am)
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [26905 closed issues](https://github.com/brave/brave-browser/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/brave/brave-browser/issues/36369)
+    - __how many users discussed the issue:__ 1 people
+    - __when was the issue reported:__ around 6 hours ago (2/26/24 7:22 am)
+    - __when was the issue closed:__  closed 3 hours ago (2/26/24 10:22 am)
 
 - __how active is the discussion on the issues:__ 
 
