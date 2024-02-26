@@ -2,8 +2,7 @@
 
 
 
-__Project Name:__  
-
+__Project Name:__  OpenEMU
 
 ---
 
@@ -13,26 +12,24 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://openemu.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ The project is an open source video game emaluator that allows Mac users to easily add, browse, and organize games and play them with a compatible gamepad.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It was easy to find the GitHub repo because there was a link to it on the website nav. However, the CONTRIBUTING.md doesn't have actual information on how to contribute, only a link to a reporting guide, so it could be difficult for newcomers to contribute to the project.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/OpenEmu/OpenEmu)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/OpenEmu/OpenEmu/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ No mailing list
 
-__Chat channel:__ [Chat channel](insert link here)
-
-__Other communication channels:__ 
+__Chat channel:__ No chat channel
 
 
 ---
