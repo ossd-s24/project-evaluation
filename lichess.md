@@ -170,7 +170,8 @@ what you did to try to remedy it) Yes, but it took a little longer because mac w
 
 How long did the whole process take? 5 minutes
 
-Name: Alessandro
+
+Name: Mathew
 
 Operating system: Windows 11
 
@@ -180,7 +181,14 @@ what you did to try to remedy it) Yes
 How long did the whole process take? Less than 10 minutes
 
 
+Name: Leanne
 
+Operating system: Windows 10
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) No, couldn't get commands for Docker setup to work. Tried WSL setup instead but also ran into problems
+
+How long did the whole process take? 10+ minutes
 
 ---
 
