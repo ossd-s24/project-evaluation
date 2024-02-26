@@ -2,8 +2,7 @@
 
 
 
-__Project Name:__  
-Scikit-learn
+__Project Name:__  OpenEMU
 
 ---
 
@@ -13,95 +12,64 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Scikit-learn](https://scikit-learn.org/stable/)
+__Project website:__ [Website](https://openemu.org/)
 
 
-__What is the purpose of the project:__ 
-Provide the tools and assets for predictive data analysis
-
-__How easy was it to find information about contributing on the website?__ 
-Pretty easy, information at the footer
-
-__Contributing instructions:__ [Here](https://scikit-learn.org/dev/developers/contributing.html) 
+__What is the purpose of the project:__ The project is an open source video game emaluator that allows Mac users to easily add, browse, and organize games and play them with a compatible gamepad.
 
 
-__URL for the code repository:__ [Code repository](https://github.com/scikit-learn/scikit-learn)
+__How easy was it to find information about contributing on the website?__ It was easy to find the GitHub repo because there was a link to it on the website nav. However, the CONTRIBUTING.md doesn't have actual information on how to contribute, only a link to a reporting guide, so it could be difficult for newcomers to contribute to the project.
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scikit-learn/scikit-learn/issues)
 
-__Mailing list:__ [Mailing list](https://mail.python.org/mailman/listinfo/scikit-learn)
+__Contributing instructions:__ [Here](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) 
 
-__Chat channel:__ [Chat channel](https://app.gitter.im/#/room/#scikit-learn_scikit-learn:gitter.im)
-__Chat channel:__ [Chat channel](https://discord.gg/VVzhr8cHK8)
+__URL for the code repository:__ [Code repository](https://github.com/OpenEmu/OpenEmu)
 
-__Other communication channels:__ 
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/OpenEmu/OpenEmu/issues)
 
-Twitter: @scikit_learn
-LinkedIn: linkedin/scikit-learn
-YouTube: youtube.com/scikit-learn
-Facebook: @scikitlearnofficial
-Instagram: @scikitlearnofficial
-TikTok: @scikit.learn
+__Mailing list:__ No mailing list
+
+__Chat channel:__ No chat channel
+
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](https://github.com/scikit-learn/scikit-learn?tab=BSD-3-Clause-1-ov-file)
+__License:__ No License found
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  No.
 
-[yes](https://opensource.org/license/bsd-3-clause)
+__Programming Language(s):__ Swift, C, Objective C.
 
-__Programming Language(s):__ 
-Python
-92.2%
- 
-Cython
-5.7%
-C++
-1.2%
- 
-C
-0.3%
- 
-Shell
-0.3%
-Meson
-0.2%
- 
-Other
-0.1%
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md)
+
+__Are the contributing instructions clear?__ No, they only ask for people to not report duplicate issues. 
 
 
-__URL for contributing instructions:__ [Contributing instructions](https://github.com/scikit-learn/scikit-learn/blob/main/CONTRIBUTING.md)
+__URL for code of conduct / community norms / community guildelines:__ None found.
 
-__Are the contributing instructions clear?__ 
-Yes
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/scikit-learn/scikit-learn/tree/main?tab=coc-ov-file)
-
-__URL for instructions for users to download and install the package:__  [here](https://github.com/scikit-learn/scikit-learn/tree/main?tab=readme-ov-file)
+__URL for instructions for users to download and install the package:__  [here](https://openemu.org/). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
-Yes, as long as the user knows how to install dependencies
-
-__URL for instructions for how to install development environment:__ [here](https://scikit-learn.org/dev/developers/contributing.html#ways-to-contribute)
+__Are these instructions clear? Do you think they would be easy to follow?__ They link to an Apple article on installing unsigned apps, but nothing past that.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
-Yes
+__URL for instructions for how to install development environment:__ None, they just say use XCode to compile from source. 
 
-__Number of contributors:__ 2815 contributors
+
+__Are these instruction clear? Do you think they would be easy to follow?__ No.
+
+
+__Number of contributors:__ 93 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Ogrisel] (2892 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/3a3e746dddef5c0fc2243c4c0bedf58b6b668651)
-2. [Amueller] (2061 commits) - [Their Latest Commit](https://github.com/scikit-learn/enhancement_proposals/commit/281e2b9315ae43af608028f20804023b98bf2d91)
-3. [GaelVaroquanux] (1791 commits) - [Their Latest Commit](https://github.com/scikit-learn/scikit-learn/commit/fe718a8e193ca7fdf0d61c197b3615fbcb277f8e)
+1. [[Cyco](https://github.com/cyco)] (1494 commits) - [Their Latest Commit](https://github.com/OpenEmu/OpenEmu/commit/f233ec9a11d050b7b211bb7c795b011a2ebb801a) 
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 
 
 __Number of commits:__ xxxx commits

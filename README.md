@@ -17,9 +17,9 @@ List of projects for this activity:
 - [Mockito](https://site.mockito.org/) Isaiah, Skylar, Andrew  
 - [Cockatrice](https://cockatrice.github.io/) Harry, Daniel, Brad 
 - [Brave](https://brave.com/) Kei, Rushi, Josckar, 
-- [OpenEMU](https://openemu.org/) Raj, Sam G, Jenna, Nathan, 
-- [scikit-learn](https://scikit-learn.org/stable/) Terrance, Henry, Ben 
-- [Audacity](https://www.audacityteam.org/) Cole, Ahmed O, Cameron 
+- [OpenEMU](https://openemu.org/) Raj, ~~Sam G~~, Jenna, Nathan, 
+- [scikit-learn](https://scikit-learn.org/stable/) Terrance, Henry, ~~Ben~~ 
+- [Audacity](https://www.audacityteam.org/) ~~Cole~~, Ahmed O, Cameron 
 - [Lichess](https://lichess.org/) Alessandro, Leanne, Mathew
 - [Godot engine](https://godotengine.org/) Ahmet I, Glenda, Shriya
 
