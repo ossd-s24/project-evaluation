@@ -157,15 +157,16 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Allyson
 
-Operating system: 
+Operating system: Windows 10
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
+It was successful, there were some hiccups that involved me trying different combinations of the various methods of installation Jellyfin wrote in their README.md and closely inspecting console logs for any errors that may be causing issues. This project required a lot of prerequisite software to be installed outside of the usual Node.js/.Net/etc., such as FFMPEG and the Jellyfin web server.
 
 How long did the whole process take? 
-
+About an hour.
 
 ---
 
