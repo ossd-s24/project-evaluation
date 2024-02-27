@@ -154,7 +154,7 @@ __Pull requests__
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
+Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
 Name: Allyson
@@ -168,10 +168,21 @@ It was successful, there were some hiccups that involved me trying different com
 How long did the whole process take? 
 About an hour.
 
+Name: Julissa
+
+Operating system: macOS
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+It was successful in the end, however, there were a lot of redos, my teammates helping me, and searching online. The good part was that there were different methods to use for the installation but not all worked on my computer. The installation of DotNote that they mentioned did not work for me, instead, I had to use Brew. There were a lot of steps to follow that made a bit confusing, and I had to recheck my steps to see if I had everything set up and downloaded. There were a couple of times that I forgot to download a prerequisite. 
+
+How long did the whole process take? 
+Two hours
+
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
 
 
@@ -188,7 +199,7 @@ __Are people friendly in the issues, discussion forum, and chat (for example, IR
 
 __Do pull requests get reviewed?__
 
-
+Pull Requests do get reviewed. 
 
 __Do maintainers thank people for their contributions?__
 
@@ -199,3 +210,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+No special hardware. There are a lot of prerequisites to download like Node.js, FFMPEG, etc. 
