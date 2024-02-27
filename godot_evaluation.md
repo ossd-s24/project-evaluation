@@ -36,7 +36,7 @@ __Other communication channels:__ [All community channels](https://godotengine.o
 
 __License:__ [License](https://github.com/godotengine/godot?tab=MIT-1-ov-file)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
 __Programming Language(s):__ C++, C#, C, GLSL, Java, Python
 
@@ -120,23 +120,23 @@ __Pull requests__
 
 - __how many open pull requests are there:__ 2,255 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/godotengine/godot/pull/88890) (as of Feb 26, 2024, 8:59 PM EST)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Feb 26, 2024, 8:54 PM EST 
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/godotengine/godot/issues/3070)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Dec 13, 2015, 8:23 PM EST
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 37,241 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/godotengine/godot/pull/88853) (as of Feb 26, 2024, 8:59 PM EST)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb 26, 2024, 3:31 AM EST
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb 26, 2024, 4:50 AM EST
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
