@@ -131,34 +131,45 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 249 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/AnubisLMS/Anubis/pull/471)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Feb 19, 2024](https://github.com/AnubisLMS/Anubis/pull/471)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/AnubisLMS/Anubis/pull/1)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Jan 9, 2020
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 249
 
     - __url for the last pull request closed:__ [Last Pull Request closed]()
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb 19, 2024
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb 19, 2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, they just merged and close that pr in the same day when the pr was made
 
 
 ## Development Environment 
 
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
+
+Name: Jack Chen
+
+Operating system: MacOS
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+Yes.
+
+How long did the whole process take? 
+10 minutes
 
 Name: 
 
