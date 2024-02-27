@@ -179,6 +179,18 @@ It was successful in the end, however, there were a lot of redos, my teammates h
 How long did the whole process take? 
 Two hours
 
+Name: Johan
+
+Operating system: macOS
+
+Was the installation successful? 
+(if not, explain what went wrong and what you did to try to remedy it)
+The installation was successful after a long process of re-reading the documentation and trying different options to start the server. Jellyfin gave a lot of details on different ways to set up the project but it was always missing small tiny details in some given options which caused me to continue searching for more details before going on to the next option. Also, there were many dependencies required for the project which all had their own long instructions which tired me out from reading. I was easily able to have the project installed using one method but then I worked longer to figure out a different method which seemed more practical as it combined the client with the server automatically. I also used my previous knowledge of node to help me debug some errors I recieved when building the client and the server. 
+
+
+How long did the whole process take? 
+An hour and a half
+
 ---
 
 
