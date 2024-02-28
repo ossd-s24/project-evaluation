@@ -143,9 +143,9 @@ __Pull requests__
 
 - __how many closed pull requests are there:__ 249
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/AnubisLMS/Anubis/pull/471)
     
-    - __how many users discussed the pull request:__ 3 users
+    - __how many users discussed the pull request:__ 1 users
     
     - __when was the pull request made:__  Feb 19, 2024
     
