@@ -200,10 +200,6 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ 
-python3 >= 3.8
-cmake >= 3.16
-A working C++ 17 compiler
-Graphviz (optional)
-Conan 2
+python3 >= 3.8, cmake >= 3.16, a working C++ 17 compiler, Graphviz (optional), and Conan 2. 
 
 
