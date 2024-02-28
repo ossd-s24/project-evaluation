@@ -193,16 +193,16 @@ Name: Henry Zhang
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
 How long did the whole process take? 
-
+5 Minutes
 
 ---
 
-Name: 
+Name: Terrance
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
@@ -215,28 +215,29 @@ How long did the whole process take?
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
+Very Friendly, it is a big project that encourages people to get started
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, each issue generally has at least one person that responds
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+They seem friendly, definetly not rude
 
 
 
 __Do pull requests get reviewed?__
-
+Yes, often
 
 
 __Do maintainers thank people for their contributions?__
-
+I don't see any
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+Anyone can contribute to the project, since there are many different ways to contribute
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+No, you just need to install some packages using pip
