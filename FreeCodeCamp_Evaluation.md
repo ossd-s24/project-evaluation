@@ -149,17 +149,16 @@ __Pull requests__
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
-for this project. Complete the following for each member:
+Attempt to configure the development environment for this project:
 
-Name: 
+Name: Jenna
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes, easy and straightforward
 
-How long did the whole process take? 
+How long did the whole process take? Around 5 minutes
 
 
 ---
@@ -168,28 +167,36 @@ How long did the whole process take?
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
+Overall, I think the project is very friendly for beginner contributors. There are a lot of instructions for contributing that are clear and thorough, and the community seems very friendly and encouraging. Additionally, the "first timers only" label allows beginners to start contributing by addressing easier issues.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
+Yes, maintainers respond quickly and helpfully to questions in issues.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+Yes, people are generally very friendly and encouraging. 
 
 
 __Do pull requests get reviewed?__
 
+Yes, often very quickly.
 
 
 __Do maintainers thank people for their contributions?__
 
+Typically no, but it is understandable considering how many contributions there are each day.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
+Knowledge of HTML, CSS, JavaScript, and/or TypeScript is required to solve many of the issues. However, anyone can report bugs, provide suggestions, and help with writing and documentation.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+Hardware requirements: 8 GB RAM; relatively fast CPU (4+ cores); Windows 10 or 11 (with WSL), macOS, or Linux
+
+Software requirements: Node.js, pnpm, MongoDB Community Server, Git
