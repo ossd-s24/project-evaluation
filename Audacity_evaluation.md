@@ -140,21 +140,21 @@ __Pull requests__
     
     - __when was the oldest pull request made:__ Feb. 3rd, 2018
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 2,273
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/audacity/audacity/pull/6038)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 01 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb. 25th, 2024
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb. 26th, 2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, within a few days or less.
 
 
-## Development Environment 
+## Development Environment ****
 
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
@@ -173,31 +173,37 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Not sure, the problems seem very deep, as well as specific to C and C++.
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes.
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Kind of, it's more unfiltered constructive criticism.
 
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ A lot of times, no.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ No.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Yes, C and C++, two very special skills.
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ 
+python3 >= 3.8
+cmake >= 3.16
+A working C++ 17 compiler
+Graphviz (optional)
+Conan 2
+
 
