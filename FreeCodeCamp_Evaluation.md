@@ -97,7 +97,7 @@ __Issues__
     - __when was the issue reported:__ Yesterday
     - __when was the issue closed:__ Yesterday
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Depends on the issue, but some are quite active
 
     - __example of a lot of good discussion:__ [Good discussion](https://github.com/freeCodeCamp/freeCodeCamp/issues/42256)
     
