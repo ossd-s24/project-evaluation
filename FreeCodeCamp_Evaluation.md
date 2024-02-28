@@ -73,78 +73,78 @@ __Number of commits:__ 35,002 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/freeCodeCamp/freeCodeCamp/commit/329091c31adf515ae72ec7f663c220cfd08852f9)
 
-- __who made that commit:__ 
+- __who made that commit:__ [Mikey-Esteban](https://github.com/Mikey-Esteban)
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ UI fix
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [272 Open Issues](https://github.com/freeCodeCamp/freeCodeCamp/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [[python] learn-string-manipulation-by-building-a-cipher/step-69](https://github.com/freeCodeCamp/freeCodeCamp/issues/53898)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 0 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 4 hours ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [17,396 closed issues](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Missing return in rpg project step 146 ](https://github.com/freeCodeCamp/freeCodeCamp/issues/53889)
+    - __how many users discussed the issue:__ 0 people
+    - __when was the issue reported:__ Yesterday
+    - __when was the issue closed:__ Yesterday
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [TypeScript Migration](https://github.com/freeCodeCamp/freeCodeCamp/issues/42256)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/freeCodeCamp/freeCodeCamp/issues/50273)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes (first timers only)
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 0 open issues, 739 closed issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes, a lot of the issues cover beginner-friendly topics like grammatical errors, documentation, minor syntax errors, small code examples, etc. 
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 1 open issue, 97 closed issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ I think I could fix some of the less technical issues
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 52 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/freeCodeCamp/freeCodeCamp/pull/53897)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Four hours ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/freeCodeCamp/freeCodeCamp/pull/2)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Dec 27, 2014
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 35,481 closed pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/freeCodeCamp/freeCodeCamp/pull/53891)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 0 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__ yesterday
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ yesterday
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, very quickly (typically within a few days)
 
 
 ## Development Environment 
