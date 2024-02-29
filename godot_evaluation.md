@@ -147,7 +147,26 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Shriya Kalakata
+
+Operating system: MacOS Ventura 13.2.1
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) Yes
+
+How long did the whole process take? ~15/20 mins
+
+Name:
+
+Operating system: 
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+
+How long did the whole process take? 
+
+
+Name:
 
 Operating system: 
 
