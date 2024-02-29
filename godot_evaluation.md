@@ -52,7 +52,7 @@ __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
 __URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/index.html).
 
-__Are these instruction clear? Do you think they would be easy to follow?__  Yes
+__Are these instruction clear? Do you think they would be easy to follow?__  Kind of. Lots of instructions; kind of spread out.
 
 __Number of contributors:__ 2,393 contributors
 
@@ -104,15 +104,15 @@ __Issues__
 
     - __how many of such issues are there?__ 9 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Not really
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 6 issues
+    - __how many of such issues are there?__ 703 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Maybe
 
 
 
@@ -139,7 +139,7 @@ __Pull requests__
     - __when was the pull request closed:__ Feb 26, 2024, 4:50 AM EST
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ For the most part, yes
 
 
 ## Development Environment 
