@@ -40,7 +40,7 @@ __Other communication channels:__ [Contacts](https://jellyfin.org/contact)
 
 __License:__ [License](https://github.com/jellyfin/jellyfin/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
 __Programming Language(s):__ C# and Javascript, also uses Python, Brightscript, Java/Kotlin
 
