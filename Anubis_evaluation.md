@@ -17,9 +17,11 @@ __Project website:__ [Website](https://about.anubis-lms.io/)
 
 
 __What is the purpose of the project:__ 
+
 Anubis is a Learning Management System that allows courses to provide consistent and customizable development environment for students. And completely automate the learning process. It is especially catered for the need of a CS course, with a built-in coding editor, linux environment to compile assignment on demand, code similarity detection, and other features that are included in traditional LMS like brightspace or canvas.
 
 __How easy was it to find information about contributing on the website?__ 
+
 We did see it on the website, but the link was broken. We were able to find the actual guide under their github repo [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
 
 __Contributing instructions:__ [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
@@ -185,14 +187,17 @@ How long did the whole process take?
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-I would say yes. While the project itself is very big and the architecture is pretty complicated, components like UI and API are essentially simple web apps that would be seen in a web development setting. As long as contributors have flask/react experience, there are issues to be picked up. Additionally, because not a lot of people are contributing, new contributors have a lot of freedom on the type of issues to be picked up.
+
+I would say decently friendly. While the project itself is very big and the architecture is pretty complicated, components like UI and API are essentially simple web apps that would be seen in a web development setting. As long as contributors have flask/react experience, there are issues to be picked up. Additionally, because not a lot of people are contributing, new contributors have a lot of freedom on the type of issues they would like to work on.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
+
 Yes, the main contributor (Wabscale) especially provides a lot of guidance on issues.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+
 For the most part, yes. Maintainer provides very helpful comments on issues. It is also the same way in discord, although the server itself is not as active as before.
 
 
@@ -201,12 +206,15 @@ __Do pull requests get reviewed?__
 Yes, as demonstrated by the most [pull request](https://github.com/AnubisLMS/Anubis/pull/471).
 
 __Do maintainers thank people for their contributions?__
+
 Not from what we have seen.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
+
 For certain part of the project, some understanding in containers and kubernetes knowledge is probably needed.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
 The minimum development (web UI and API) does not require special environments. However, full feature development environment requires a linux environment with Docker installed is required, as prod is running in linux environment.
