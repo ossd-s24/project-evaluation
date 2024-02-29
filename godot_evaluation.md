@@ -50,7 +50,7 @@ __URL for instructions for users to download and install the package:__  [here](
 
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
-__URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/configuring_an_ide/index.html).
+__URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/index.html).
 
 __Are these instruction clear? Do you think they would be easy to follow?__  Yes
 
@@ -161,31 +161,29 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Not too friendly (I believe)
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
-
-
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes
 
 
 
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Their tone seems neutral. They aren't mean but don't seem to be overly welcoming either.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Do pull requests get reviewed?__ Yes
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Do maintainers thank people for their contributions?__ Yes
+
+
+
+__Are there special skills required to contribute to the project? If so, what are they?__ Not necessarily but might need domain knowledge (game dev)
+
+
+
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No
 
