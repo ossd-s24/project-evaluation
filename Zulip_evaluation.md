@@ -88,63 +88,63 @@ __Issues__
 
     - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 18h ago 
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [7,052](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/zulip/zulip/issues/29132)
+    - __how many users discussed the issue:__ 3 people
+    - __when was the issue reported:__ 1 day ago
+    - __when was the issue closed:__ 20h ago 
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Pretty active 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/zulip/zulip/issues/29078)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/zulip/zulip/issues/29098)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__  Yes 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ xxx 21
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ N/A
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 772 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/zulip/zulip/pull/29148)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 2h ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/zulip/zulip/pull/1)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Sep 25, 2015
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 19,547
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/zulip/zulip/pull/29146)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  6h ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 1h ago
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Kinda
 
 
 ## Development Environment 
@@ -152,9 +152,9 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Isaiah Levy
 
-Operating system: 
+Operating system: Mac OS 
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
