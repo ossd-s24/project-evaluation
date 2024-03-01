@@ -157,9 +157,9 @@ Name: Isaiah Levy
 Operating system: Mac OS 
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
-How long did the whole process take? 
+How long did the whole process take? 20 min
 
 
 ---
@@ -179,5 +179,5 @@ __Do maintainers thank people for their contributions?__ Sometimes (Im sure they
 
 __Are there special skills required to contribute to the project? If so, what are they?__ Wide veriety of issues to contribute to (no 1 specific skill required)
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Need at least 2 GB of ram  
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Need at least 2 GB of RAM  
 
