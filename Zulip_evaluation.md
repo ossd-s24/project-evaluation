@@ -144,7 +144,7 @@ __Pull requests__
     - __when was the pull request closed:__ 1h ago
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ Kinda
+- __do maintainers respond quickly to pull requests when they are opened?__ Decent
 
 
 ## Development Environment 
@@ -166,31 +166,18 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Quite friendly - there are several issues tagged as a "good first issue" and there is extensive documentation on how to contribute. 
 
 
+__Do the maintainers respond helpfully to questions in issues?__ The community as a whole is pretty active, the maintainers 
 
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do pull requests get reviewed?__ Yes
 
+__Do maintainers thank people for their contributions?__ Sometimes (Im sure they do more in the chat)
 
+__Are there special skills required to contribute to the project? If so, what are they?__ Wide veriety of issues to contribute to (no 1 specific skill required)
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
-
-
-
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Need at least 2 GB of ram  
 
