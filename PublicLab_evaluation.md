@@ -89,22 +89,22 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [499 Open Issues](https://github.com/publiclab/plots2/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/publiclab/plots2/issues/11707)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 2 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Last week
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [4,175 closed issues](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/publiclab/plots2/issues/11706)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ 3 weeks ago
+    - __when was the issue closed:__ 3 weeks ago
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Medium/Low
 
     - __example of a lot of good discussion:__ [Good discussion](insert link here)
     
