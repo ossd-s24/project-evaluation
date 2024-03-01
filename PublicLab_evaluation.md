@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Public Lab 
 
 
 ---
@@ -13,24 +13,25 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://publiclab.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ Democratizing science to address enviornmental issues 
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ Easy 
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://code.publiclab.org/#r=all) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/publiclab)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ Not on website 
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ N/A 
 
-__Chat channel:__ [Chat channel](insert link here)
+
+__Chat channel:__ [Chat channel](https://publiclab.org/chat)
 
 __Other communication channels:__ 
 
@@ -39,51 +40,51 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/publiclab/plots2/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes 
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Ruby/HTML
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/publiclab/plots2/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/publiclab/plots2/blob/main/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__  [here]([https://github.com/publiclab/plots2/tree/main?tab=readme-ov-file#developers](https://github.com/publiclab/plots2/tree/main?tab=readme-ov-file#installation)). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Somewhat 
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ [here](https://github.com/publiclab/plots2/tree/main?tab=readme-ov-file#ssl-in-development)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ Somewhat 
+
+
+__Number of contributors:__ 1,159 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [jywarren] (2094 commits) - [Their Latest Commit](https://github.com/publiclab/plots2/commit/a16b18bec3610f283a8c9ffa59aad6ecb7d08f6e)
+1. [dependabot] (426 commits) - [Their Latest Commit](https://github.com/publiclab/plots2/commit/1486f57dfb36646b1d7e3e28afd06dafc151807d)
+1. [dependabot-preview] (399 commits) - [Their Latest Commit](https://github.com/publiclab/plots2/commit/8d328a135f5a62ce6716e23fbf1cf54611cc15ce)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 6,750 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/publiclab/plots2/commit/5e1d8c2bac1c5d2ad7faf532162a72c6f65c9898)
 
-- __who made that commit:__ 
+- __who made that commit:__ Ogunbanjo, Cess, Tilda
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ Update yml file 
 
 
 __Issues__
