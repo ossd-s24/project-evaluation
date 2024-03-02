@@ -159,26 +159,26 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Isaiah Levy
 
-Operating system: 
+Operating system: Mac OS 
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
-How long did the whole process take? 
+How long did the whole process take? Less than 5 minutes  
 
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Friendly for begginners. There is a section of there website containing issues for 
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Soso 
 
 
 
@@ -187,16 +187,16 @@ __Are people friendly in the issues, discussion forum, and chat (for example, IR
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ Yes 
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ Sometimes 
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Might want to know Ruby otherwise can conteribute with HTML 
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No
