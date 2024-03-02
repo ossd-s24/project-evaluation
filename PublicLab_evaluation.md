@@ -104,54 +104,54 @@ __Issues__
     - __when was the issue reported:__ 3 weeks ago
     - __when was the issue closed:__ 3 weeks ago
 
-- __how active is the discussion on the issues:__ Medium/Low
+- __how active is the discussion on the issues:__ Active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/publiclab/plots2/issues/11620)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/publiclab/plots2/issues/11331)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 4 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 8 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ For a few 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 49 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/publiclab/plots2/pull/11702)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Jan 17
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/publiclab/plots2/pull/23)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ March 3, 2014
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 6,769
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/publiclab/plots2/pull/11694)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Dec 15, 2013
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Dec 25, 2023
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Medium
 
 
 ## Development Environment 
