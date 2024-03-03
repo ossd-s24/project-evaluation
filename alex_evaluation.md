@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Alex
 
 
 ---
@@ -165,7 +165,7 @@ Operating system: Windows
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it) No, the instructions are very vague and I didn't really know where to start with the installation process. 
 
-How long did the whole process take? 
+How long did the whole process take? N/A
 
 
 ---
