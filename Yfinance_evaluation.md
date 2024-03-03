@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  editor.js (formerly Codex)
+__Project Name:__  YFinance
 
 
 ---
@@ -13,26 +13,25 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ Project website does not exist.
 
 
 __What is the purpose of the project:__ 
-Editor.js is an open-source text editor offering a variety of features to help users create and format content efficiently. It has a modern, block-style interface that allows users to easily add and arrange different types of content, such as text, images, lists, quotes, etc. Each Block is provided via a separate plugin making Editor.js extremely flexible.
+YFinance offers developer a pythonic way to access stock and finance data from Yahoo Finance via Yahoo's publicly available API.
 
-Editor.js outputs a clean JSON data instead of heavy HTML markup. Use it in Web, iOS, Android, AMP, Instant Articles, speech readers, AI chatbots — everywhere. Easy to sanitize, extend and integrate with your logic.
 
 __How easy was it to find information about contributing on the website?__ 
+Relatively easy but there was not a lot of information.
 
+__Contributing instructions:__ [Here](https://github.com/ranaroussi/yfinance/discussions/1084)
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ [Code Repository](https://github.com/ranaroussi/yfinance)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue Tracker](https://github.com/ranaroussi/yfinance/issues)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Mailing list:__ Could not find one
 
-__Mailing list:__ [Mailing list](insert link here)
-
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ Could not find one
 
 __Other communication channels:__ 
 
@@ -41,58 +40,61 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/ranaroussi/yfinance/blob/main/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes. Apache-2.0
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/ranaroussi/yfinance/discussions/1084)
 
 __Are the contributing instructions clear?__ 
+Yes.
 
+__URL for code of conduct / community norms / community guildelines:__ [Code of Conduct](https://github.com/ranaroussi/yfinance/blob/main/CODE_OF_CONDUCT.md)
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__URL for instructions for users to download and install the package:__  [here](https://github.com/ranaroussi/yfinance/blob/main/README.md)
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 
-
-__URL for instructions for how to install development environment:__ [here](insert link here)
-
-
-__Are these instruction clear? Do you think they would be easy to follow?__
+Yes.
 
 
-__Number of contributors:__ xxx contributors
+__URL for instructions for how to install development environment:__ [here](https://github.com/ranaroussi/yfinance/discussions/1080)
+
+
+__Are these instruction clear? Do you think they would be easy to follow?__ 
+
+Yes.
+
+__Number of contributors:__ 99 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [ValueRaider] (368 coommits) - [Their Latest Commit](https://github.com/ranaroussi/yfinance/commit/c2d568367c2ec15f49c7ddaf4f23d2a8c39b8fbe)
+1. [ranaroussi] (248 commits) - [Their Latest Commit](https://github.com/ranaroussi/yfinance/commit/c49cf626bbf85d0e39b5d2fa81b48b4a74603152)
+1. [fredrik-corneliusson] (34 commits) - [Their Latest Commit](https://github.com/ranaroussi/yfinance/commit/5e333f53eee36127baa15fecea25c37ddc783843)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 1189 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest Commit](https://github.com/ranaroussi/yfinance/commit/c2d568367c2ec15f49c7ddaf4f23d2a8c39b8fbe)
 
-- __who made that commit:__ 
+- __who made that commit:__ ValueRaider
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) New version release
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [165 Open Issues](https://github.com/ranaroussi/yfinance/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/ranaroussi/yfinance/pull/1874)
 
     - __how many users discuss the issue:__ xx person
     
