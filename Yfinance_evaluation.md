@@ -207,3 +207,5 @@ Technical wise, there are no special skill and all contributors need to know is 
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+No. 
