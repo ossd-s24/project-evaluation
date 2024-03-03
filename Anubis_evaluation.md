@@ -172,15 +172,16 @@ Yes (mindebug environment). I cannot configure the full debug environment as I d
 How long did the whole process take? 
 10 minutes.
 
-Name: 
+Name: Ruiming Shen
 
-Operating system: 
+Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
+Yes(mindebug environment). Using WSL to run this and got successed。
 
 How long did the whole process take? 
-
+About 15 minutes.
 
 ---
 
