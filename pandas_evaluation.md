@@ -115,7 +115,7 @@ __Issues__
 
     - __how many of such issues are there?__ 81 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes
 
 
 
@@ -123,7 +123,7 @@ __Issues__
 
     - __how many of such issues are there?__ 369 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes
 
 
 
@@ -158,45 +158,45 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Shriya Kalakata
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
-How long did the whole process take? 
+How long did the whole process take? ~10/15 mins
 
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ pretty friendly
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ yes
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ yes
 
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ yes
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ mostly
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ no but experience with pandas could be helpful
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ no
 
