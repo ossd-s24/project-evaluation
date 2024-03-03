@@ -163,7 +163,7 @@ Name: Andrew
 Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it) I was able to get everything up and running, but upon going into the frontend of the local environment, the sign in functionality seems to be broken for me 
+what you did to try to remedy it) I was able to get everything up and running, but upon going into the frontend of the local environment, the sign in functionality seems to be broken for me, and not being able to sign in locally makes it impossible to access the actual software. 
 
 How long did the whole process take? 30 minutes
 
