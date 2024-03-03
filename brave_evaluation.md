@@ -168,6 +168,8 @@ The installation was successful.
 
 How long did the whole process take? 
 
+---
+
 Name: Kei Oshima
 
 Operating system: MacOS
@@ -178,6 +180,19 @@ what you did to try to remedy it):
 
 How long did the whole process take?
 - About five minutes
+
+---
+
+Name: Josckar Palomeque-Elias
+
+Operating system: Windows
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it): 
+- Yes, the instructions were straightforward and I already had most of the requirements installed. The git configuration necessary was simple as well.
+
+How long did the whole process take?
+- About 20 minutes.
 
 ---
 

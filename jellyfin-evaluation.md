@@ -40,7 +40,7 @@ __Other communication channels:__ [Contacts](https://jellyfin.org/contact)
 
 __License:__ [License](https://github.com/jellyfin/jellyfin/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
 __Programming Language(s):__ C# and Javascript, also uses Python, Brightscript, Java/Kotlin
 
@@ -197,16 +197,15 @@ An hour and a half
 ## Summary assessment
 __How friendly is this project for beginner contributors?__
 
-
-
+About average, the project is pretty big and if a user isn't super familiar with the functionality of the project, it could be difficult to get started. Depending on the level of experience a beginner contributor has with full-stack, it could be more or less difficult.
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+They respond quickly and often, the project is very active and has a lot of contributors.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+People are friendly and try to be helpful, there is a Code Of Conduct and maintainers try to enforce good behavior.
 
 
 __Do pull requests get reviewed?__
@@ -214,11 +213,11 @@ __Do pull requests get reviewed?__
 Pull Requests do get reviewed. 
 
 __Do maintainers thank people for their contributions?__
-
+Not particularily.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+Nothing special, but maybe more experience with web development.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__

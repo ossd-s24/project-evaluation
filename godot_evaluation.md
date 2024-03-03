@@ -50,9 +50,9 @@ __URL for instructions for users to download and install the package:__  [here](
 
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
-__URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/configuring_an_ide/index.html).
+__URL for instructions for how to install development environment:__ The idea for using the product is that Godot should be self contained, so no extra requirements. For contributing to code, they have [this](https://docs.godotengine.org/en/stable/contributing/development/index.html).
 
-__Are these instruction clear? Do you think they would be easy to follow?__  Yes
+__Are these instruction clear? Do you think they would be easy to follow?__  Kind of. Lots of instructions; kind of spread out.
 
 __Number of contributors:__ 2,393 contributors
 
@@ -104,15 +104,15 @@ __Issues__
 
     - __how many of such issues are there?__ 9 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Not really
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 6 issues
+    - __how many of such issues are there?__ 703 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Maybe
 
 
 
@@ -139,7 +139,7 @@ __Pull requests__
     - __when was the pull request closed:__ Feb 26, 2024, 4:50 AM EST
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ For the most part, yes
 
 
 ## Development Environment 
@@ -147,7 +147,26 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Shriya Kalakata
+
+Operating system: MacOS Ventura 13.2.1
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) Yes
+
+How long did the whole process take? ~15/20 mins
+
+Name: Glenda Boeker
+
+Operating system: MacOS Version 14.2.1
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) No, after compiling I got stuck on the steps to create an XCode Project
+
+How long did the whole process take? 25 min
+
+
+Name:
 
 Operating system: 
 
@@ -161,31 +180,29 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Not too friendly (I believe)
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
-
-
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes
 
 
 
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Their tone seems neutral. They aren't mean but don't seem to be overly welcoming either.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Do pull requests get reviewed?__ Yes
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Do maintainers thank people for their contributions?__ Yes
+
+
+
+__Are there special skills required to contribute to the project? If so, what are they?__ Not necessarily but might need domain knowledge (game dev)
+
+
+
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No
 

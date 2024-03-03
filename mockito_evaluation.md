@@ -173,31 +173,31 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Fairly technical, may be difficult for begginners
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Somewhat 
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes
 
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ Yes 
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ Sometimes 
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ No
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No
 
