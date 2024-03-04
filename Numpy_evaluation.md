@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Numpy
 
 
 ---
@@ -13,30 +13,30 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](https://about.anubis-lms.io/)
+__Project website:__ [Website](https://numpy.org/)
 
 
 __What is the purpose of the project:__ 
 
-Anubis is a Learning Management System that allows courses to provide consistent and customizable development environment for students. And completely automate the learning process. It is especially catered for the need of a CS course, with a built-in coding editor, linux environment to compile assignment on demand, code similarity detection, and other features that are included in traditional LMS like brightspace or canvas.
+
 
 __How easy was it to find information about contributing on the website?__ 
 
-We did see it on the website, but the link was broken. We were able to find the actual guide under their github repo [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
+ Very easy. [here](https://numpy.org/devdocs/dev/index.html)
 
-__Contributing instructions:__ [here](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
-There is also a installation guideline [here](https://github.com/AnubisLMS/Anubis/blob/main/docs/development_guide.md).
+__Contributing instructions:__ [here](https://numpy.org/devdocs/dev/index.html)
 
-__URL for the code repository:__ [here](https://github.com/AnubisLMS/Anubis)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/orgs/AnubisLMS/projects/2/views/1)
+__URL for the code repository:__ [here](https://github.com/numpy/numpy)
 
-__Mailing list:__ We were not able to find one.
+__Bug/Issue tracker link:__ [Bug/Issue tracker]()
 
-__Chat channel:__ Discord but link to discord broken.
+__Mailing list:__ 
+
+__Chat channel:__ Slack
 
 __Other communication channels:__ 
-Discord DM.
+Slack or email: numpy-team@googlegroups.com
 
 ---
 
