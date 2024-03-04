@@ -42,13 +42,13 @@ Slack or email: numpy-team@googlegroups.com
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](https://github.com/AnubisLMS/Anubis/blob/main/LICENSE)
+__License:__ [License]()
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical)__ Yes. license: The MIT Lcense 
+__Is it [OSI approved]()__ Yes. license: The BSD Lcense 
 
 __Programming Language(s):__ Python, JavaScript, 
 
-__URL for contributing instructions:__ [Contributing instructions](https://github.com/AnubisLMS/Anubis/blob/main/.github/CONTRIBUTING.md)
+__URL for contributing instructions:__ [Contributing instructions]()
 
 __Are the contributing instructions clear?__ 
 Relatively clear. The commit style and coding conventions required are clearly listed. Pull requests insturction are also listed.
@@ -61,7 +61,7 @@ __URL for instructions for users to download and install the package:__  Adoptio
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 No.
 
-__URL for instructions for how to install development environment:__ [here](https://github.com/AnubisLMS/Anubis/blob/main/docs/development_guide.md)
+__URL for instructions for how to install development environment:__ [here]()
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
@@ -73,16 +73,16 @@ __Number of contributors:__ 27 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [wabscale] (1374 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
-1. [synoet] (66 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/ba4e197dcc232b7df21453dedcc6629d8a22a3e7)
-1. [PIG208] (46 commits) - [Their Latest Commit](https://github.com/AnubisLMS/Anubis/commit/5473ccdea7e656e9b58643eef979b09ccdabbf36)
+1. [] ( commits) - [Their Latest Commit]()
+1. [] ( commits) - [Their Latest Commit]()
+1. [] ( commits) - [Their Latest Commit]()
 
 
 __Number of commits:__ 1591 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](https://github.com/AnubisLMS/Anubis/commit/44eb39ec004a246f3ab4063640d065f50c43a686)
+- __link to the commit:__ [Latest commit]()
 
 - __who made that commit:__ wabscale
 
@@ -91,42 +91,42 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ [65 Open Issues](https://github.com/AnubisLMS/Anubis/issues)
+- __how many open issues are there:__ [65 Open Issues]()
 
-    - __url for the last issue created:__ [Last issue created](https://github.com/AnubisLMS/Anubis/pull/471)
+    - __url for the last issue created:__ [Last issue created]()
 
     - __how many users discuss the issue:__ 2 person
     
     - __when was the issue reported:__ February 17th, 2024
     
 
-- __how many closed issues are there:__ [157 closed issues](https://github.com/AnubisLMS/Anubis/issues?q=is:issue+is:closed)
-    - __url for the last issue closed:__ [Last issue closed](https://github.com/AnubisLMS/Anubis/pull/471)
+- __how many closed issues are there:__ [157 closed issues]()
+    - __url for the last issue closed:__ [Last issue closed]()
     - __how many users discussed the issue:__ 2 people
     - __when was the issue reported:__ February 17th, 2024
     - __when was the issue closed:__ February 19th, 2024
 
 - __how active is the discussion on the issues:__ Earlier feature-based issue were very actively discussed. However, the more recent bug fix issues were not actively discussed.
 
-    - __example of a lot of good discussion:__ [Good discussion](https://github.com/AnubisLMS/Anubis/issues/274)
+    - __example of a lot of good discussion:__ [Good discussion]()
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/AnubisLMS/Anubis/issues/400)
+    - __example of an issue that does not have much discussion:__ [Not much discussion]()
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes.
 
-    - __how many of such issues are there?__ 43 issues (7 open issues but from a long time ago)
+    - __how many of such issues are there?__ None
     
-    - __look at a few of them, do they look beginner friendly?__ Yes. Mostly UI related work.
+    - __look at a few of them, do they look beginner friendly?__ None.
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__ 7 issues (3 open issues)
+    - __how many of such issues are there?__  issues ( open issues)
     
-    - __look at a few of them, do you think you could submit a fix?__ Yes, but they are frmo a long time ago so we will need to clarify if it has been addressed already.
+    - __look at a few of them, do you think you could submit a fix?__ Yes.
 
 
 
@@ -134,17 +134,17 @@ __Pull requests__
 
 - __how many open pull requests are there:__ 249 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/AnubisLMS/Anubis/pull/471)
+    - __url for the last pull request created:__ [Last Pull Request created]()
     
-    - __when was the last pull request made:__ [Feb 19, 2024](https://github.com/AnubisLMS/Anubis/pull/471)
+    - __when was the last pull request made:__ [Feb 19, 2024]()
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/AnubisLMS/Anubis/pull/1)
+    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
     
     - __when was the oldest pull request made:__ Jan 9, 2020
 
 - __how many closed pull requests are there:__ 249
 
-    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/AnubisLMS/Anubis/pull/471)
+    - __url for the last pull request closed:__ [Last Pull Request closed]()
     
     - __how many users discussed the pull request:__ 1 users
     
@@ -153,24 +153,12 @@ __Pull requests__
     - __when was the pull request closed:__ Feb 19, 2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ Yes, they just merged and close that pr in the same day when the pr was made
-
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, they respond the same day as the request published.
 
 ## Development Environment 
 
 Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
-
-Name: Jack Chen
-
-Operating system: MacOS
-
-Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
-Yes (mindebug environment). I cannot configure the full debug environment as I don't have access to a linux environment.
-
-How long did the whole process take? 
-10 minutes.
 
 Name: Ruiming Shen
 
@@ -178,22 +166,10 @@ Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
-Yes(mindebug environment). Using WSL to run this and got successed.
+Yes, both pip and anoconda.
 
 How long did the whole process take? 
-About 15 minutes.
-
-Name: Leo Wang
-
-Operating system: MacOS
-
-Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
-Only mindebug environment is available, because the other two debug and mkdebug environment requires Linux environment. 
-
-How long did the whole process take? 
-About 10 minutes.
-
+About 5 minutes.
 
 ---
 
@@ -201,33 +177,30 @@ About 10 minutes.
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-I would say decently friendly. While the project itself is very big and the architecture is pretty complicated, components like UI and API are essentially simple web apps that would be seen in a web development setting. As long as contributors have flask/react experience, there are issues to be picked up. Additionally, because not a lot of people are contributing, new contributors have a lot of freedom on the type of issues they would like to work on.
-
+It is friendly, for beginner the install process and the specific section for beginners are good.
 
 __Do the maintainers respond helpfully to questions in issues?__
 
-Yes, the main contributor (Wabscale) especially provides a lot of guidance on issues.
+Yes, the main contributor especially provides a lot of guidance on issues.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-For the most part, yes. Maintainer provides very helpful comments on issues. It is also the same way in discord, although the server itself is not as active as before.
+Yes, from issue and pull request parts we can know they are friendly.
 
 
-__Do pull requests get reviewed?__
-
-Yes, as demonstrated by the most [pull request](https://github.com/AnubisLMS/Anubis/pull/471).
+__Do pull requests get reviewed?__ Yes.
 
 __Do maintainers thank people for their contributions?__
 
-Not from what we have seen.
+No.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-For certain part of the project, some understanding in containers and kubernetes knowledge is probably needed.
+No.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
-The minimum development (web UI and API) does not require special environments. However, full feature development environment requires a linux environment with Docker installed is required, as prod is running in linux environment.
+NO.
