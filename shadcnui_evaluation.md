@@ -43,7 +43,7 @@ __License:__ [License](https://github.com/shadcn-ui/ui?tab=MIT-1-ov-file)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT license
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Typescript
 
 __URL for contributing instructions:__ [Contributing instructions](https://github.com/shadcn-ui/ui/blob/main/CONTRIBUTING.md)
 
