@@ -157,7 +157,7 @@ for this project. Complete the following for each member:
 
 Name: Ahmet Ilten
 
-Operating system: Windows 
+Operating system: Windows 11
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it) Yes

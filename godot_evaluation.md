@@ -166,9 +166,9 @@ what you did to try to remedy it) No, after compiling I got stuck on the steps t
 How long did the whole process take? 25 min
 
 
-Name:
+Name: Ahmet Ilten
 
-Operating system: 
+Operating system: Windows 11 
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
