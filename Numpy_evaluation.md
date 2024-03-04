@@ -107,7 +107,7 @@ __Issues__
     - __when was the issue closed:__ March 3rd, 2024
 
 - __how active is the discussion on the issues:__ Very active, maintainer replies the same day as the issue published.
-    - __example of a lot of good discussion:__ [Good discussion](https://github.com/numpy/numpy/issues?q=is%3Aissue+is%3Aclosed)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/numpy/numpy/pull/25704)
     
     - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/numpy/numpy/issues/25888)
 
@@ -131,25 +131,25 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 249 pull requests
+- __how many open pull requests are there:__ 13485 closed, 173 opened pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/numpy/numpy/pull/25922)
     
-    - __when was the last pull request made:__ [Feb 19, 2024]()
+    - __when was the last pull request made:__ [March 3rd, 2024](https://github.com/numpy/numpy/pull/25922)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/numpy/numpy/pull/1)
     
-    - __when was the oldest pull request made:__ Jan 9, 2020
+    - __when was the oldest pull request made:__ Sep 15, 2010
 
-- __how many closed pull requests are there:__ 249
+- __how many closed pull requests are there:__ 13485
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/numpy/numpy/pull/25915)
     
-    - __how many users discussed the pull request:__ 1 users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  Feb 19, 2024
+    - __when was the pull request made:__  March 1st, 2024
     
-    - __when was the pull request closed:__ Feb 19, 2024
+    - __when was the pull request closed:__ March 3rd, 2024
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ Yes, they respond the same day as the request published.
