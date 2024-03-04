@@ -42,16 +42,16 @@ Slack or email: numpy-team@googlegroups.com
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License]()
+__License:__ [License](https://github.com/numpy/numpy?tab=License-1-ov-file)
 
-__Is it [OSI approved]()__ Yes. license: The BSD Lcense 
+__Is it [OSI approved](https://github.com/numpy/numpy?tab=License-1-ov-file)__ Yes. license: The BSD Lcense 
 
-__Programming Language(s):__ Python, JavaScript, 
+__Programming Language(s):__ Python, C
 
-__URL for contributing instructions:__ [Contributing instructions]()
+__URL for contributing instructions:__ [Contributing instructions](https://numpy.org/devdocs/dev/index.html)
 
 __Are the contributing instructions clear?__ 
-Relatively clear. The commit style and coding conventions required are clearly listed. Pull requests insturction are also listed.
+It is very clear.
 
 __URL for code of conduct / community norms / community guildelines:__ [here](https://numpy.org/code-of-conduct/)
 
@@ -82,35 +82,34 @@ __Number of commits:__ 35295 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit]()
+- __link to the commit:__ [Latest commit](https://github.com/numpy/numpy/commit/54b174f2d2ff19b04c0c5b318453d230efbbdc0b)
 
-- __who made that commit:__ wabscale
+- __who made that commit:__ rgommers
 
-- __what type of work was commited?__ For UI enhancement.
+- __what type of work was commited?__ add functions.
 
 
 __Issues__
 
-- __how many open issues are there:__ [65 Open Issues]()
+- __how many open issues are there:__ [1900 Open Issues](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created]()
+    - __url for the last issue created:__ [Last issue created](https://github.com/numpy/numpy/issues/25918)
 
-    - __how many users discuss the issue:__ 2 person
+    - __how many users discuss the issue:__ 3 person
     
-    - __when was the issue reported:__ February 17th, 2024
+    - __when was the issue reported:__ March 3rd, 2024
     
 
-- __how many closed issues are there:__ [157 closed issues]()
-    - __url for the last issue closed:__ [Last issue closed]()
+- __how many closed issues are there:__ [10313 closed issues](https://github.com/numpy/numpy/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/numpy/numpy/issues/25917)
     - __how many users discussed the issue:__ 2 people
-    - __when was the issue reported:__ February 17th, 2024
-    - __when was the issue closed:__ February 19th, 2024
+    - __when was the issue reported:__ March 1st, 2024
+    - __when was the issue closed:__ March 3rd, 2024
 
-- __how active is the discussion on the issues:__ Earlier feature-based issue were very actively discussed. However, the more recent bug fix issues were not actively discussed.
-
-    - __example of a lot of good discussion:__ [Good discussion]()
+- __how active is the discussion on the issues:__ Very active, maintainer replies the same day as the issue published.
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/numpy/numpy/issues?q=is%3Aissue+is%3Aclosed)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion]()
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/numpy/numpy/issues/25888)
 
 
 
@@ -124,7 +123,7 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__  issues ( open issues)
+    - __how many of such issues are there?__ 2929 closed, 200 open issues.
     
     - __look at a few of them, do you think you could submit a fix?__ Yes.
 
