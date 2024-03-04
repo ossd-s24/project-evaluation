@@ -29,7 +29,7 @@ __Contributing instructions:__ [here](https://numpy.org/devdocs/dev/index.html)
 
 __URL for the code repository:__ [here](https://github.com/numpy/numpy)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker]()
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/numpy/numpy/issues)
 
 __Mailing list:__ numpy-team@googlegroups.com
 
