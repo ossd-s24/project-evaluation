@@ -62,7 +62,7 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 The instructions are not really that clear. There is a lot of information but it is not a step-by-step guide. 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 96 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
