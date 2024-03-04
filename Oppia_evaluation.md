@@ -166,9 +166,10 @@ Operating system: macOS
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
+It took a while to install it. Rosetta and downloading the virtual environment was not downloading properly. They only have instructions from m1 chip and not m2 chip. 
 
 How long did the whole process take? 
-
+around 45 to an hour
 
 ---
 
