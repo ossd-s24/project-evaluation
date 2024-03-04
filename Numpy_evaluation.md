@@ -31,9 +31,9 @@ __URL for the code repository:__ [here](https://github.com/numpy/numpy)
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker]()
 
-__Mailing list:__ 
+__Mailing list:__ numpy-team@googlegroups.com
 
-__Chat channel:__ Slack
+__Chat channel:__ Slack(need invitation, write to mail: numpy-team@googlegroups.com)
 
 __Other communication channels:__ 
 Slack or email: numpy-team@googlegroups.com
@@ -53,32 +53,32 @@ __URL for contributing instructions:__ [Contributing instructions]()
 __Are the contributing instructions clear?__ 
 Relatively clear. The commit style and coding conventions required are clearly listed. Pull requests insturction are also listed.
 
-__URL for code of conduct / community norms / community guildelines:__ We were not able to find one.
+__URL for code of conduct / community norms / community guildelines:__ [here](https://numpy.org/code-of-conduct/)
 
-__URL for instructions for users to download and install the package:__  Adoption guide is listed on the website, but the link is broken. It also asks potential users to reach out.
+__URL for instructions for users to download and install the package:__  [here](https://numpy.org/install/)
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-No.
+Yes.
 
-__URL for instructions for how to install development environment:__ [here]()
+__URL for instructions for how to install development environment:__ [here](https://numpy.org/install/)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
 Yes. It is step by step and very clear.
 
-__Number of contributors:__ 27 contributors
+__Number of contributors:__ 1590 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [] ( commits) - [Their Latest Commit]()
-1. [] ( commits) - [Their Latest Commit]()
-1. [] ( commits) - [Their Latest Commit]()
+1. [charris] (6283 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/2e3f52faa6244df3bc0f59ee923c04d19e424f9f)
+1. [seburg] (2713 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/568aa777c0739a42d6f2d36b98477063a0d781be)
+1. [mattip] (2648 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/b6ea15cb8927e00298ad3df8c8f73c54bf695e02)
 
 
-__Number of commits:__ 1591 commits
+__Number of commits:__ 35295 commits
 
 __Latest commit__ 
 
