@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  editor.js (formerly Codex)
+__Project Name:__  BigBlueButton
 
 
 ---
@@ -17,9 +17,7 @@ __Project website:__ [Website](insert link here)
 
 
 __What is the purpose of the project:__ 
-Editor.js is an open-source text editor offering a variety of features to help users create and format content efficiently. It has a modern, block-style interface that allows users to easily add and arrange different types of content, such as text, images, lists, quotes, etc. Each Block is provided via a separate plugin making Editor.js extremely flexible.
 
-Editor.js outputs a clean JSON data instead of heavy HTML markup. Use it in Web, iOS, Android, AMP, Instant Articles, speech readers, AI chatbots — everywhere. Easy to sanitize, extend and integrate with your logic.
 
 __How easy was it to find information about contributing on the website?__ 
 
@@ -201,3 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
