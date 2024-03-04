@@ -98,7 +98,7 @@ __Issues__
     - __when was the issue reported:__ 
     3/3/2024
 
-- __how many closed issues are there:__ [xxx closed issues](https://github.com/tensorflow/tensorflow/issues?q=is%3Aissue+is%3Aclosed)
+- __how many closed issues are there:__ [36875 closed issues](https://github.com/tensorflow/tensorflow/issues?q=is%3Aissue+is%3Aclosed)
     - __url for the last issue closed:__ [Last issue closed](https://github.com/tensorflow/tensorflow/issues/63107)
     - __how many users discussed the issue:__ 0 people
     - __when was the issue reported:__ 3/3/2024 1 hour ago
