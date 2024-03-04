@@ -29,11 +29,11 @@ __Contributing instructions:__ [here](https://numpy.org/devdocs/dev/index.html)
 
 __URL for the code repository:__ [here](https://github.com/numpy/numpy)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker]()
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/numpy/numpy/issues)
 
-__Mailing list:__ 
+__Mailing list:__ numpy-team@googlegroups.com
 
-__Chat channel:__ Slack
+__Chat channel:__ Slack(need invitation, write to mail: numpy-team@googlegroups.com)
 
 __Other communication channels:__ 
 Slack or email: numpy-team@googlegroups.com
@@ -42,75 +42,74 @@ Slack or email: numpy-team@googlegroups.com
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License]()
+__License:__ [License](https://github.com/numpy/numpy?tab=License-1-ov-file)
 
-__Is it [OSI approved]()__ Yes. license: The BSD Lcense 
+__Is it [OSI approved](https://github.com/numpy/numpy?tab=License-1-ov-file)__ Yes. license: The BSD Lcense 
 
-__Programming Language(s):__ Python, JavaScript, 
+__Programming Language(s):__ Python, C
 
-__URL for contributing instructions:__ [Contributing instructions]()
+__URL for contributing instructions:__ [Contributing instructions](https://numpy.org/devdocs/dev/index.html)
 
 __Are the contributing instructions clear?__ 
-Relatively clear. The commit style and coding conventions required are clearly listed. Pull requests insturction are also listed.
+It is very clear.
 
-__URL for code of conduct / community norms / community guildelines:__ We were not able to find one.
+__URL for code of conduct / community norms / community guildelines:__ [here](https://numpy.org/code-of-conduct/)
 
-__URL for instructions for users to download and install the package:__  Adoption guide is listed on the website, but the link is broken. It also asks potential users to reach out.
+__URL for instructions for users to download and install the package:__  [here](https://numpy.org/install/)
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-No.
+Yes.
 
-__URL for instructions for how to install development environment:__ [here]()
+__URL for instructions for how to install development environment:__ [here](https://numpy.org/install/)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
 Yes. It is step by step and very clear.
 
-__Number of contributors:__ 27 contributors
+__Number of contributors:__ 1590 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [] ( commits) - [Their Latest Commit]()
-1. [] ( commits) - [Their Latest Commit]()
-1. [] ( commits) - [Their Latest Commit]()
+1. [charris] (6283 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/2e3f52faa6244df3bc0f59ee923c04d19e424f9f)
+1. [seburg] (2713 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/568aa777c0739a42d6f2d36b98477063a0d781be)
+1. [mattip] (2648 commits) - [Their Latest Commit](https://github.com/numpy/numpy/commit/b6ea15cb8927e00298ad3df8c8f73c54bf695e02)
 
 
-__Number of commits:__ 1591 commits
+__Number of commits:__ 35295 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit]()
+- __link to the commit:__ [Latest commit](https://github.com/numpy/numpy/commit/54b174f2d2ff19b04c0c5b318453d230efbbdc0b)
 
-- __who made that commit:__ wabscale
+- __who made that commit:__ rgommers
 
-- __what type of work was commited?__ For UI enhancement.
+- __what type of work was commited?__ add functions.
 
 
 __Issues__
 
-- __how many open issues are there:__ [65 Open Issues]()
+- __how many open issues are there:__ [1900 Open Issues](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created]()
+    - __url for the last issue created:__ [Last issue created](https://github.com/numpy/numpy/issues/25918)
 
-    - __how many users discuss the issue:__ 2 person
+    - __how many users discuss the issue:__ 3 person
     
-    - __when was the issue reported:__ February 17th, 2024
+    - __when was the issue reported:__ March 3rd, 2024
     
 
-- __how many closed issues are there:__ [157 closed issues]()
-    - __url for the last issue closed:__ [Last issue closed]()
+- __how many closed issues are there:__ [10313 closed issues](https://github.com/numpy/numpy/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/numpy/numpy/issues/25917)
     - __how many users discussed the issue:__ 2 people
-    - __when was the issue reported:__ February 17th, 2024
-    - __when was the issue closed:__ February 19th, 2024
+    - __when was the issue reported:__ March 1st, 2024
+    - __when was the issue closed:__ March 3rd, 2024
 
-- __how active is the discussion on the issues:__ Earlier feature-based issue were very actively discussed. However, the more recent bug fix issues were not actively discussed.
-
-    - __example of a lot of good discussion:__ [Good discussion]()
+- __how active is the discussion on the issues:__ Very active, maintainer replies the same day as the issue published.
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/numpy/numpy/pull/25704)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion]()
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/numpy/numpy/issues/25888)
 
 
 
@@ -124,7 +123,7 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__  issues ( open issues)
+    - __how many of such issues are there?__ 2929 closed, 200 open issues.
     
     - __look at a few of them, do you think you could submit a fix?__ Yes.
 
@@ -132,25 +131,25 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 249 pull requests
+- __how many open pull requests are there:__ 13485 closed, 173 opened pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/numpy/numpy/pull/25922)
     
-    - __when was the last pull request made:__ [Feb 19, 2024]()
+    - __when was the last pull request made:__ [March 3rd, 2024](https://github.com/numpy/numpy/pull/25922)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/numpy/numpy/pull/1)
     
-    - __when was the oldest pull request made:__ Jan 9, 2020
+    - __when was the oldest pull request made:__ Sep 15, 2010
 
-- __how many closed pull requests are there:__ 249
+- __how many closed pull requests are there:__ 13485
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/numpy/numpy/pull/25915)
     
-    - __how many users discussed the pull request:__ 1 users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  Feb 19, 2024
+    - __when was the pull request made:__  March 1st, 2024
     
-    - __when was the pull request closed:__ Feb 19, 2024
+    - __when was the pull request closed:__ March 3rd, 2024
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ Yes, they respond the same day as the request published.

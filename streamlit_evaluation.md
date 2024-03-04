@@ -3,7 +3,7 @@
 
 
 __Project Name:__  
-
+Streamlit
 
 ---
 
@@ -13,78 +13,78 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://streamlit.io)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ To go straight from python to a front end web app
 
 
 __How easy was it to find information about contributing on the website?__ 
+Not very easy on the website
 
+__Contributing instructions:__ [Here](https://github.com/streamlit/streamlit/wiki/Contributing) 
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ [Code repository](https://github.com/streamlit/streamlit)
 
-__URL for the code repository:__ [Code repository](insert link here)
-
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/streamlit/streamlit/issues)
 
 __Mailing list:__ [Mailing list](insert link here)
 
 __Chat channel:__ [Chat channel](insert link here)
 
 __Other communication channels:__ 
-
+https://streamlit.io/community 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [Apache 2.0](https://github.com/streamlit/streamlit?tab=Apache-2.0-1-ov-file)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ yes
 
-__Programming Language(s):__ 
+__Programming Language(s):__ python, typescript
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/streamlit/streamlit/wiki/Contributing)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/streamlit/streamlit?tab=coc-ov-file)
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/streamlit/streamlit?tab=readme-ov-file). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ [here](https://github.com/streamlit/streamlit/wiki/Contributing)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ yes
+
+
+__Number of contributors:__ 217 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [tvst] (1082 commits) - [Their Latest Commit](insert link here)
+2. [treuille] (939 commits) - [Their Latest Commit](insert link here)
+3. [tconkling] (477 commits) - [Their Latest Commit](insert link here)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 6141 commits
 
-__Latest commit__ 
+__Latest commit__ 8 hours ago
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/streamlit/streamlit/commit/f722d801996cfbcaf2476213dd0f7fbd26a73806)
 
-- __who made that commit:__ 
+- __who made that commit:__ LukasMasuch
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+fixed a test
 
 __Issues__
 
@@ -199,3 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
