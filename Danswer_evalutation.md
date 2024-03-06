@@ -152,20 +152,21 @@ __Pull requests__
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+Looks like it
 
 ## Development Environment 
 
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Henry
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
+No, one of the required dependnecies "did not exist" for the version listed in dev.txt
 what you did to try to remedy it)
-
+Tried upgrading pip
 How long did the whole process take? 
 
 
@@ -174,29 +175,29 @@ How long did the whole process take?
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+It seems pretty friendly and open to improvemnt
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Average
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes
 
 
 
 __Do pull requests get reviewed?__
 
-
+Yes
 
 __Do maintainers thank people for their contributions?__
-
+I think
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+No, maybe some expereince with using AI
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__

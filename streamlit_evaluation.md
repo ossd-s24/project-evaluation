@@ -88,79 +88,80 @@ fixed a test
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [728 Open Issues](https://github.com/streamlit/streamlit/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/streamlit/streamlit/issues/8230)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 2 days ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
-
+- __how many closed issues are there:__ [3221 closed issues](https://github.com/streamlit/streamlit/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/streamlit/streamlit/issues/8225)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ 3 days ago
+    - __when was the issue closed:__ 3 days ago
+3
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/streamlit/streamlit/issues/8147)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/streamlit/streamlit/issues/8108)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
-
-    - __how many of such issues are there?__ xxx issues
+Yes
+    - __how many of such issues are there?__ 5 issues
     
     - __look at a few of them, do they look beginner friendly?__ 
+   Not really theres also not a lot of them
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
-
+yes
     - __how many of such issues are there?__ 
-    
+    0 open ones
     - __look at a few of them, do you think you could submit a fix?__ 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 21 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/streamlit/streamlit/pull/8231)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 2 days ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/streamlit/streamlit/pull/6368)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ March 23, 2023
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 4155
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/streamlit/streamlit/pull/8232)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 0 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  14 hours ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 9 hours ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+Looks like they close it pretty frequetly
 
 ## Development Environment 
 
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Henry
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it)
@@ -173,26 +174,26 @@ How long did the whole process take?
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Not very friendly to beginners, but very active
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+Yes
 
 
 __Do pull requests get reviewed?__
 
-
+Yes
 
 __Do maintainers thank people for their contributions?__
 
-
+No
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
